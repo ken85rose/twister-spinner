@@ -1,0 +1,18 @@
+{
+	"name": "twister-spinner",
+	"description": "A simple automatic twister spinner for my daughter.",
+	"version": "1.0.0",
+	"keywords": [],
+	"main": "app://host/index.html",
+	"window": {
+		"title": "Twister Spinner",
+		"fullscreen": false,
+		"toolbar": true,
+		"icon": "img/icon.png",
+		"frame": true,
+		"resizable": true,
+		"show": true
+	},
+	"author": "Kennedy Rose <kennedy@kennedyrose.com> (https://kennedyrose.com)",
+	"chromium-args" : "--enable-webaudio-input"
+}
